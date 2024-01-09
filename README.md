@@ -1,5 +1,4 @@
 <div align="center">
-<img align="center"  alt="Coding" width="800" src="https://www.shutterstock.com/image-illustration/line-web-concept-computer-science-600w-525822841.jpg">
   </div>
 <h1 align="center">Hi 👋, I'm Duy Duc Minh Vo</h1>
 <h3 align="center">A passionate Computer Science student in Canada</h3>
